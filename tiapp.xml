@@ -120,7 +120,6 @@
     <target device="windows">false</target>
   </deployment-targets>
   <plugins>
-    <plugin version="1.0">ti.alloy</plugin>
   </plugins>
   <modules>
     <module platform="iphone">ti.map</module>
@@ -131,5 +130,5 @@
     <module platform="iphone">facebook</module>
     <module platform="commonjs">ti.cloud</module>
   </modules>
-  <sdk-version>8.2.0.GA</sdk-version>
+  <sdk-version>9.1.0</sdk-version>
 </ti:app>
